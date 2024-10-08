@@ -1,0 +1,14 @@
+formatter: "markdown"
+
+content: |-
+  # Terraform AWS EKS module
+
+  {{ .Requirements }}
+
+  {{ .Providers }}
+
+  {{ .Resources }}
+
+  {{ .Inputs }}
+
+  {{ .Outputs }}
